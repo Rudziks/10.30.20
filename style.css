@@ -16,7 +16,7 @@
     grid-column: 1 /span 4
 }
 .item4{
-    grid-column: 5 /span 3;
+    grid-column: 4 /span 3;
     grid-row: 2;
 }
 
@@ -26,8 +26,8 @@ grid-row:
 }
 
 .item6{
-grid-column:  ;;
-grid-row:grid-row:  
+grid-column:  ;
+grid-row:  
 }
 
 .item7{
